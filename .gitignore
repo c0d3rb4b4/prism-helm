@@ -1,0 +1,6 @@
+charts/prism/charts
+.idea
+.git
+*.tgz
+Chart.lock
+compose/prism

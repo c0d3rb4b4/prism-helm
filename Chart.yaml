@@ -1,9 +1,0 @@
-name: prism
-description: A helm chart for prism mock
-version: 0.0.1
-apiVersion: v2
-keywords:
-  - prism
-sources:
-  - https://github.com/c0d3rb4b4/prism-helm
-home: https://github.com/c0d3rb4b4/prism-helm

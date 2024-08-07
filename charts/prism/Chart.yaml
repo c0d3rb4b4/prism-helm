@@ -1,0 +1,8 @@
+apiVersion: v2
+name: prism
+description: A helm chart for prism mock
+type: application
+version: 0.0.1
+appVersion: 1.0.0
+keywords:
+  - prism
