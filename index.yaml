@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  prism:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-08-07T17:19:11.019433293Z"
+    description: A helm chart for prism mock
+    digest: 3e2484fb5e555d22f4ae61bf0dd22d96389d966c9d8a5f6e0c2180e82b48457c
+    keywords:
+    - prism
+    name: prism
+    type: application
+    urls:
+    - https://github.com/c0d3rb4b4/prism-helm/releases/download/prism-0.0.1/prism-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-08-07T17:19:11.019447149Z"
